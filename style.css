@@ -3,10 +3,23 @@
     font-size: 30px;
     font-family: monospace;
     background: rgb(250, 184, 109);
+    
+    
+}
+
+h1 {
+    margin-top: 10em;
 }
 
 p {
     background: rgba(104, 11, 192, 0.521) ;
+    margin: auto;
+    margin-bottom: 2em;
+    width: 1000px;
+    text-align: center;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgb(124, 28, 124) ;
 }
 
 button {
